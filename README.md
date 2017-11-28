@@ -21,16 +21,16 @@ There are a few versions of the orange logo, and there is also an SVG if you pre
 
 # Application Design
 
-## All Products View
+## Auth View
+<img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/login.png" />
 
+## Browsing View
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/all.png" />
 
 ## Details View
-
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/details.png" />
 
 ## Cart View
-
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/cart.png" />
 
 ## Orders View
@@ -38,11 +38,9 @@ There are a few versions of the orange logo, and there is also an SVG if you pre
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/orders.png" />
 
 ## Add Pet View
-
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/add-pet.png" />
 
 ## Edit Pet View
-
 <img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/views/edit-pet.png" />
 
 # Technical Requirements - Front-end
