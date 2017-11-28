@@ -46,7 +46,7 @@ There are a few versions of the orange logo, and there is also an SVG if you pre
 # Technical Requirements - Front-end
 
 ## Auth View
-* User can login into their account.
+* User can log in into their account.
 * User can register for an account.
 * User should be navigated to the All Animals view on a successful login or successful registration.
 
@@ -56,7 +56,7 @@ There are a few versions of the orange logo, and there is also an SVG if you pre
 * User can reset an applied filter to see a list of all animals again
 * User can navigate to Details view by clicking on an animal    in the list
 * User can navigate to Add Animal view through link in top corner
-* User can logout and be redirected back to the Auth View
+* User can log out and be redirected back to the Auth View
 
 ## Details View
 * User is able to add animal to cart from here
