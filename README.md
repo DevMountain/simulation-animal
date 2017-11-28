@@ -61,7 +61,7 @@ There are two versions of the orange logo (one with words and one without), and 
 * User is able to add animal to cart from here
 * User is able to navigate to Edit Animal view 
 * User is able to delete an animal from the database
-* This should redirect the user back to the All Animals View
+    * This should redirect the user back to the All Animals View
 * User is able to navigate to previous view
 * User should be redirected to the All Animals view after adding the animal to the cart
 
