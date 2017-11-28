@@ -10,7 +10,7 @@ Good luck and work hard!
 
 # Color Palette & Font
 
-<img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/assets/colors.png" />
+<img src="https://raw.githubusercontent.com/Alan-Miller/animal-simulation/master/assets/color-palette.png" />
 
 <b><a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans">Google Font - Open Sans</a></b>
 <br/>
