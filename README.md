@@ -13,6 +13,7 @@ Good luck and work hard!
 
 
 ### The icons are included in the assets folder of this repository
+There are two versions of the orange logo (one with words and one without), and there is also an SVG if you prefer to work with that.
 
 
 # Application Design
