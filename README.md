@@ -10,7 +10,11 @@ Good luck and work hard!
 
 # Color Palette & Font
 
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/assets/design-guide.png" />
 
+<b><a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans">Google Font - Open Sans</a></b>
+<br/>
+<b><a href="https://fonts.google.com/specimen/Alegreya?selection.family=Alegreya:700i">Google Font - Alegreya</a></b>
 
 ### The icons are included in the assets folder of this repository
 There are two versions of the orange logo (one with words and one without), and there is also an SVG if you prefer to work with that.
